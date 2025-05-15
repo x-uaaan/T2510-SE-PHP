@@ -69,7 +69,7 @@
         <div class="container">
             <h1>Welcome to Our System</h1>
             <p>Streamline your experience with the best tools and solutions.</p>
-            <a href="#" class="button">Get Started</a>
+            <a href="#" class="button">Login</a>
         </div>
     </div>
 </body>
